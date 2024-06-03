@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Press"
   text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline: An alternative site to VuePress
   actions:
     - theme: brand
       text: Markdown Examples
